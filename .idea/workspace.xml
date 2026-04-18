@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1d66464-7fd9-40a7-bce5-1f6328008a48" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/multimodal-ops-platform.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agents/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agents/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agents/critic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agents/executor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agents/planner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/middleware/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/middleware/security_guard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/routes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/routes/health.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/routes/ingest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/schemas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finetune/evaluate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finetune/prepare_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finetune/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infra/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infra/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/llm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/llm/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/llm/output_guard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/llm/prompt_builder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlops/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlops/cost_logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlops/drift_monitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlops/tracking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/integration/test_ingest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/unit/test_health.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/action_dispatcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/doc_extractor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/memory_tool.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3CWOGu68zER9ZZotWH5jNilRGCK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-b3d66beaba9a-c6efb3732140-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26199.168" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1d66464-7fd9-40a7-bce5-1f6328008a48" name="Changes" comment="" />
+      <created>1776497767059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776497767059</updated>
+    </task>
+    <servers />
+  </component>
+</project>
